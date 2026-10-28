@@ -1,2 +1,2 @@
 # EventoTecnologia
-Trabalho final da aula de Engenharia de Softaware
+Trabalho final da aula de Engenharia de Software
